@@ -43,5 +43,5 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=RobbenWijanathan&theme=dark&hide_border=true" width="350"/>
 
 ### 🔝 Top Contributions
-<img src="https://github-contributor-stats.vercel.app/api?username=RobbenWijanathan&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=RobbenWijanathan&limit=3&theme=dark&combine_all_yearly_contributions=true" width="350"/>
 
