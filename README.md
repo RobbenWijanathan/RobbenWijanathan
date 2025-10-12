@@ -39,10 +39,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 📊 Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=RobbenWijanathan&theme=dark&hide_border=true)<br/>
+### 📊 Stats
+<img src="https://nirzak-streak-stats.vercel.app/?user=RobbenWijanathan&theme=dark&hide_border=true" width="350"/>
 
-### 🔝 Contributions
-![](https://github-contributor-stats.vercel.app/api?username=RobbenWijanathan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributions
+<img src="https://github-contributor-stats.vercel.app/api?username=RobbenWijanathan&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
