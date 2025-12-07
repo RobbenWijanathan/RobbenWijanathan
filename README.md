@@ -12,9 +12,9 @@
 C · C++ · Python · Java · JavaScript · TypeScript · HTML · CSS · R  
 React · Node.js · MySQL · MongoDB  
 Pandas · NumPy · Matplotlib · scikit-learn · TensorFlow · PyTorch  
-LaTeX · Git · Figma · Photoshop · Premiere Pro
+LaTeX · Git · Figma 
 
 ---
 
 > Love math, code, and building things.  
-> Do some music and filming on spare time 🎸📷
+> Do some music and filming on spare time 
