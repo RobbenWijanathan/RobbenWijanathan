@@ -2,6 +2,7 @@
 [Email](mailto:robbenwijanathan@gmail.com) · 
 [LinkedIn](https://linkedin.com/in/rbbnwjnthn) · 
 [LeetCode](https://leetcode.com/robbenwijanathan) · 
+[Kaggle](https://www.kaggle.com/robbenwijanathan) · 
 [Stack Overflow](https://stackoverflow.com/users/26712931/robben-wijanathan) ·
 [Instagram](https://instagram.com/rbenwnathan) · 
 [YouTube](https://youtube.com/@@robbenwijanathan) 
