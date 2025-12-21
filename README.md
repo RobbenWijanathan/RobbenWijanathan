@@ -12,7 +12,7 @@
 ## Techs
 
 ### Data & ML  
-Python · Pandas · NumPy · Matplotlib · scikit-learn · TensorFlow · PyTorch · Keras · Tableau · Looker Studio · MySQL  
+Python · R · MySQL · Pandas · NumPy · Matplotlib · scikit-learn · TensorFlow · PyTorch · Keras · Tableau · Looker Studio  
 
 ### Programming & Math
 C · C++ · Python · Numpy · Java  
