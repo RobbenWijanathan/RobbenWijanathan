@@ -1,4 +1,4 @@
-### Socials
+## Socials
 [Email](mailto:robbenwijanathan@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/rbbnwjnthn) ·
 [LeetCode](https://leetcode.com/robbenwijanathan) ·
@@ -9,22 +9,19 @@
 
 ---
 
-### Skills
+## Techs
 
-**Data & ML**  
-Python, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch, Keras  
-Tableau, Looker Studio  
-MySQL, MongoDB  
+### Data & ML  
+Python · Pandas · NumPy · Matplotlib · scikit-learn · TensorFlow · PyTorch · Keras · Tableau · Looker Studio · MySQL  
 
-**Programming & Math**  
-C, C++, Python, Numpy, Java  
+### Programming & Math
+C · C++ · Python · Numpy · Java  
 
-**Web**  
-JavaScript, TypeScript, HTML, CSS  
-React, Next.js
+### Web
+JavaScript · TypeScript · HTML · CSS · React · Next.js
 
-**Writing & Tools**  
-LaTeX, Git, Figma  
+### Writing, Design, & Tools  
+LaTeX · Git · Figma 
 
 ---
 
