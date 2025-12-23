@@ -7,11 +7,13 @@
 
 ---
 
-## My skills
+## Skills
 Data Analysis · Data Visualization · Statistical Modeling · Probability & Statistics · Machine Learning ·  
 Linear Algebra · Calculus I - III · Music & Geospatial Data Analysis · Front-End Web Development  
 
-## Tools i generally use
+---
+
+## Tools
 Python · NumPy · Pandas · scikit-learn · Matplotlib · Seaborn · SQL ·  
 HTML · CSS · JavaScript · Git/GitHub · LaTeX  
 
