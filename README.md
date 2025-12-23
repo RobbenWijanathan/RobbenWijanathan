@@ -2,7 +2,6 @@
 ## Socials
 [Email](mailto:robbenwijanathan@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/rbbnwjnthn) ·
-[GitHub](https://github.com/robbenwijanathan) ·
 [LeetCode](https://leetcode.com/robbenwijanathan) ·
 [Kaggle](https://www.kaggle.com/robbenwijanathan)
 
