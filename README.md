@@ -1,29 +1,22 @@
+
 ## Socials
 [Email](mailto:robbenwijanathan@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/rbbnwjnthn) ·
+[GitHub](https://github.com/robbenwijanathan) ·
 [LeetCode](https://leetcode.com/robbenwijanathan) ·
-[Kaggle](https://www.kaggle.com/robbenwijanathan) ·
-[Stack Overflow](https://stackoverflow.com/users/26712931/robben-wijanathan) ·
-[Instagram](https://instagram.com/rbenwnathan) ·
-[YouTube](https://youtube.com/@@robbenwijanathan)
+[Kaggle](https://www.kaggle.com/robbenwijanathan)
 
 ---
 
-## Techs
+## My skills
+Data Analysis · Data Visualization · Statistical Modeling · Probability & Statistics · Machine Learning ·  
+Linear Algebra · Calculus I - III · Music & Geospatial Data Analysis · Front-End Web Development  
 
-### Data & ML  
-Python · R · MySQL · Pandas · NumPy · Matplotlib · scikit-learn · TensorFlow · PyTorch · Keras · Tableau · Looker Studio  
-
-### Programming & Math
-C · C++ · Python · Numpy · Java  
-
-### Web
-JavaScript · TypeScript · HTML · CSS · React · Next.js
-
-### Writing, Design, & Tools  
-LaTeX · Git · Figma 
+## Tools i generally use
+Python · NumPy · Pandas · scikit-learn · Matplotlib · Seaborn · SQL ·  
+HTML · CSS · JavaScript · Git/GitHub · LaTeX  
 
 ---
 
-> Math, data, and code during the day.  
-> Films, music, and life at night.
+> Math, data, and code by day.  
+> Films, music, and life by night.
