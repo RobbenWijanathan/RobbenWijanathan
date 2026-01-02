@@ -1,4 +1,5 @@
-I enjoy working with **math and data**, exploring datasets, visualizing patterns, and building machine learning models.<br><br>I’m comfortable with **statistics and ML**, and I like experimenting with data just for fun.<br><br>**Interests:**<br>- 🎵 Music & audio-related data<br>- 🗺️ Geospatial analysis<br>- 🌐 Web development<br><br>Always curious, always experimenting.
+I enjoy working with **math and data**, exploring datasets, visualizing patterns, and building machine learning models.
+I’m comfortable with **statistics and ML**, and I like experimenting with data just for fun.<br><br>**Interests:**<br>- 🎵 Music & audio-related data<br>- 🗺️ Geospatial analysis<br>- 🌐 Web development<br><br>Always curious, always experimenting.
 
 ---
 
