@@ -14,11 +14,11 @@ I’m comfortable with **statistics & machine learning**, and I like experimenti
 ---
 
 ## 🛠️ Tools & Skills
-- **Languages:** Python, SQL  
-- **Data:** Pandas, NumPy  
+- **Languages:** Python, R, SQL  
+- **Data:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn  
-- **ML:** scikit-learn  
-- **Other:** Git, notebooks, dashboards  
+- **ML:** scikit-learn
+- **Other:** Git, LaTeX, Notion  
 
 ---
 
