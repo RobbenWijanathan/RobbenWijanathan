@@ -6,14 +6,6 @@ I’m comfortable with **statistics & machine learning**, and I like experimenti
 
 ---
 
-## 🧠 What I Like Working On
-- Data analysis & visualization  
-- Machine learning   
-- Statistics & mathematics
-- Playing with datasets   
-
----
-
 ## 🌱 Interests
 - 🎵 **Music & audio-related data** (patterns, features, vibes)
 - 🗺️ **Geospatial analysis** & mapping data
