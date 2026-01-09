@@ -1,16 +1,16 @@
 # 👋 Hello there, I'm Robben
 
-I'm someone who enjoys working with **math and data** — exploring datasets, visualizing patterns, and building machine learning models just to see what insights fall out.
+I'm a data scientist who enjoys working with math, exploring datasets, visualizing patterns, and building machine learning models just to see what insights fall out.
 
 I’m comfortable with **statistics & machine learning**, and I like experimenting with data for fun as much as for learning.
 
 ---
 
 ## 🧠 What I Like Working On
-- 📊 Data analysis & visualization  
-- 🤖 Machine learning experiments  
-- 🔢 Statistics & mathematical modeling  
-- 🧪 Playing with datasets just to see what happens  
+- Data analysis & visualization  
+- Machine learning   
+- Statistics & mathematics
+- Playing with datasets   
 
 ---
 
