@@ -1,24 +1,21 @@
-# 👋 Hello there, I'm Robben
-
-I'm a data scientist who enjoys working with math, exploring datasets, visualizing patterns, and building machine learning models just to see what insights fall out.
-
-I’m comfortable with **statistics & machine learning**, and I like experimenting with data for fun as much as for learning.
+# hello there, i'm robben
+i’m a data scientist who’s all about math, working with data, and messing around with machine learning. i enjoy exploring datasets, turning ideas into visualizations, and building models to find meaningful patterns, with interests in music, geospatial analysis, and some web development on the side.
 
 ---
 
-## 🌱 Interests
-- 🎵 **Music & audio-related data** (patterns, features, vibes)
-- 🗺️ **Geospatial analysis** & mapping data
-- 🌐 **Web development** & data-driven interfaces
+## 🌱 interests
+- 🎵 **music & audio-related data**
+- 🗺️ **geospatial analysis** & mapping data
+- 🌐 **web development** & data-driven interfaces
 
 ---
 
-## 🛠️ Tools & Skills
-- **Languages:** Python, R, SQL  
-- **Data:** Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn  
+## 🛠️ tools & skills
+- **languages:** Python, R, SQL  
+- **data:** Pandas, NumPy
+- **visualization:** Matplotlib, Seaborn  
 - **ML:** scikit-learn
-- **Other:** Git, LaTeX, Notion  
+- **other:** Git, LaTeX, Notion  
 
 ---
 
