@@ -1,5 +1,9 @@
 # hello there, i'm robben
-i’m a data scientist who’s all about math, working with data, and messing around with machine learning. i enjoy exploring datasets, turning ideas into visualizations, and building models to find meaningful patterns, with interests in music, geospatial analysis, and some web development on the side.
+I spend most of my time working with data and building ML models. Love digging into datasets, creating visualizations that actually tell a story, and seeing what patterns emerge.
+
+Math nerd at heart. Also, really into music and geospatial stuff, there's something cool about mapping data to the real world. Do some web dev when the project calls for it.
+
+Always down to explore new datasets or try out different modeling approaches.
 
 ---
 
