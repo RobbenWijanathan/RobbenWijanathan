@@ -5,24 +5,4 @@ Math nerd at heart. Also, really into music and geospatial stuff, there's someth
 
 Always down to explore new datasets or try out different modeling approaches.
 
----
-
-## 🌱 interests
-- 🎵 **music & audio-related data**
-- 🗺️ **geospatial analysis** & mapping data
-- 🌐 **web development** & data-driven interfaces
-
----
-
-## 🛠️ tools & skills
-- **languages:** Python, R, SQL  
-- **data:** Pandas, NumPy
-- **visualization:** Matplotlib, Seaborn  
-- **ML:** scikit-learn
-- **other:** Git, LaTeX, Notion  
-
----
-
-## 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/robnw/)
-- [Email](mailto:robbenwijanathan@gmail.com)
+Reach me via [LinkedIn](https://www.linkedin.com/in/robnw/) or by email at [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com).
