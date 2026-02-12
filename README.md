@@ -1,4 +1,4 @@
-# hello there, i'm robben
+# about HIM
 
 I spend most of my time working with data and building ML models. Love digging into datasets, creating visualizations that actually tell a story, and seeing what patterns emerge.
 Math nerd at heart. Also, really into music and geospatial stuff, there's something cool about mapping data to the real world. Do some web dev when the project calls for it.
