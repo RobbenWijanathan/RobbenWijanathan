@@ -20,6 +20,4 @@ Check out my **[project portfolio](https://github.com/RobbenWijanathan/project-p
 
 ---
 
-### Let's Connect 🤝
-
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/robnw/) or drop me an email at [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com). Always happy to chat about data, ML, or anything interesting!
