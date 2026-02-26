@@ -8,7 +8,7 @@
 
 ### About Me 🌐
 
-I spend most of my time working with data and building ML models — digging into datasets, creating visualizations that actually tell a story, and finding the patterns hidden underneath. Math nerd at heart, with a deep love for music and geospatial data. There's something fascinating about mapping information to the real world. I do web dev when the project calls for it.
+I spend most of my time working with data and building ML models, digging into datasets, creating visualizations that actually tell a story, and finding the patterns hidden underneath. Math nerd at heart, with a deep love for music and geospatial data. There's something fascinating about mapping information to the real world. I do web dev when the project calls for it.
 
 Always down to explore new datasets or try out different modeling approaches.
 
@@ -16,7 +16,7 @@ Always down to explore new datasets or try out different modeling approaches.
 
 ### My Projects 💡
 
-Check out my **[project portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)** to see what I've been working on — from data pipelines and ML experiments to visualizations and beyond.
+Check out my **[project portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)** to see what I've been working on.
 
 ---
 
