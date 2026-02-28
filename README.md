@@ -2,7 +2,7 @@
 
 ## 📊 Data Scientist & ML Engineer
 
-📍 **Jakarta, Indonesia** &nbsp;|&nbsp; 📧 [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com) &nbsp;|&nbsp; 🔗 [robnw](https://www.linkedin.com/in/robnw/)
+📍 **Jakarta, Indonesia** &nbsp;|&nbsp; 📧 [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com) &nbsp;|&nbsp; 🔗 [linkedin.com/robnw](https://www.linkedin.com/in/robnw/)
 
 
 ---
