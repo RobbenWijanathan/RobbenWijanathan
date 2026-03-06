@@ -6,7 +6,7 @@
 
 ### About Me 🌐
 
-I spend most of my time working with data and building ML models, digging into datasets, creating visualizations that actually tell a story, and finding the patterns hidden underneath. Math nerd at heart, with a deep love for music and geospatial data. There's something fascinating about mapping information to the real world. I do web dev when the project calls for it.
+I spend most of my time working with data and building ML models, digging into datasets, creating visualizations that actually tell a story, and finding the patterns hidden underneath. Math nerd at heart, with a deep love for music-related stuff. There's something fascinating about mapping information to the real world. I do web dev when the project calls for it.
 
 Always down to explore new datasets or try out different modeling approaches.
 
