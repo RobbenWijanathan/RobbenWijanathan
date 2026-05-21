@@ -9,11 +9,11 @@ Jakarta-based practitioner of heuristic data manipulation and unsupervised patte
 - Music theory as a loss function
 - Visualization as an act of persuasion
 
-# "Projects"
+### "Projects"
 
 [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)
 
-# Contact
+### Contacts
 
 [LinkedIn](https://www.linkedin.com/in/robnw/) · [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com)
 
