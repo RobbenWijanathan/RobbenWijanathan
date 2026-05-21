@@ -2,6 +2,8 @@
 
 Jakarta-based practitioner of heuristic data manipulation and unsupervised pattern extraction, specializing in the translation of numerical chaos into visual artifacts that approximate meaning. Former math enthusiast, current math devotee. Maintains a deeply personal relationship with music and the production of it.
 
+Yes that sentence above is definitely was not made by LLMs.
+
 # Currently Learning
 
 - Dimensional reduction of vibes into actionable insight
