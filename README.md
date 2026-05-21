@@ -1,7 +1,5 @@
 # "About Me"
 
----
-
 Jakarta-based practitioner of heuristic data manipulation and unsupervised pattern extraction, specializing in the translation of numerical chaos into visual artifacts that approximate meaning. Former math enthusiast, current math devotee. Maintains a deeply personal relationship with music and the production of it.
 
 # Currently Learning
@@ -13,15 +11,12 @@ Jakarta-based practitioner of heuristic data manipulation and unsupervised patte
 
 # "Projects"
 
----
-
 [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)
 
 # Contact
 
----
-
 [LinkedIn](https://www.linkedin.com/in/robnw/) · [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com)
 
 ---
+
 Data doesn't lie. People do. The viz is somewhere in between.
