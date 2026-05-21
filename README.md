@@ -1,19 +1,28 @@
-# 👋 Hello, I'm Robben!
-
-📍 **Jakarta, Indonesia** &nbsp;|&nbsp; 📧 [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com) &nbsp;|&nbsp; 🔗 [linkedin.com/robnw](https://www.linkedin.com/in/robnw/)
+# "About Me"
 
 ---
 
-### About Me 🌐
+Jakarta-based practitioner of heuristic data manipulation and unsupervised pattern extraction, specializing in the translation of numerical chaos into visual artifacts that approximate meaning. Former math enthusiast, current math devotee. Maintains a deeply personal and frankly concerning relationship with music-related datasets. Does web dev when sufficiently motivated or financially incentivized.
 
-I spend most of my time working with data and building ML models, digging into datasets, creating visualizations that actually tell a story, and finding the patterns hidden underneath. Math nerd at heart, with a deep love for music-related stuff. There's something fascinating about mapping information to the real world. I do web dev when the project calls for it.
+# Currently Learning
+
+- Dimensional reduction of vibes into actionable insight
+- The part of ML where the model works on the first try
+- Gradient descent, but for life decisions
+- Music theory as a loss function
+- Visualization as an act of persuasion
+
+# "Projects"
 
 ---
 
-### My Projects 💡
+Curated evidence of productivity, organized chronologically and presented without emotional attachment. Available for inspection at [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md).
 
-Check out my **[project portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)** to see what I've been working on.
+# Contact
 
 ---
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/robnw/) or drop me an email at [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com).
+Reachable via [LinkedIn](https://www.linkedin.com/in/robnw/) for professional inquiries, unsolicited opinions on model architectures, and collaborative ventures of reasonable ambition. Alternatively, deposit correspondence directly into [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com) and await asynchronous response.
+
+---
+Data doesn't lie. People do. The viz is somewhere in between.
