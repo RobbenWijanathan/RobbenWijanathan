@@ -15,6 +15,8 @@ Yes, that sentence above was definitely not made by an LLM.
 
 [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)
 
+---
+
 ### Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/robnw/) 
