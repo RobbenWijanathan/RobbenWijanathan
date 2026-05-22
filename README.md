@@ -11,7 +11,7 @@ Yes, that sentence above was definitely not made by an LLM.
 - Music theory as a loss function
 - Visualization as an act of persuasion
 
-### "Projects"
+# "Projects"
 
 [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)
 
