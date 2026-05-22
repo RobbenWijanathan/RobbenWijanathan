@@ -17,7 +17,8 @@ Yes, that sentence above was definitely not made by an LLM.
 
 ### Contacts
 
-[LinkedIn](https://www.linkedin.com/in/robnw/) · [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/robnw/) 
+- [robbenwijanathan@gmail.com](mailto:robbenwijanathan@gmail.com)
 
 ---
 
