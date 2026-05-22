@@ -1,4 +1,4 @@
-### "About Me"
+### Hello.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Robben%20Wijanathan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robnw/) [![Email](https://img.shields.io/badge/Email-robbenwijanathan%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:robbenwijanathan@gmail.com)
 
 Jakarta-based practitioner of heuristic data manipulation and unsupervised pattern extraction, specializing in the translation of numerical chaos into visual artifacts that approximate meaning. Former math enthusiast, current math devotee. Maintains a deeply personal relationship with music and the production of it.
