@@ -1,5 +1,26 @@
 # Hello.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robben%20Wijanathan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robnw/) [![Email](https://img.shields.io/badge/Email-robbenwijanathan%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:robbenwijanathan@gmail.com)
+
+<p>
+  <a href="mailto:robbenwijanathan@gmail.com" style="text-decoration:none;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/robnw/" style="text-decoration:none;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/logmein/white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/robn.mp3/" style="text-decoration:none;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/robn69" style="text-decoration:none;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/discord/white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@robnw" style="text-decoration:none;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/youtube/white" />
+  </a>
+</p>
 
 I'm a Jakarta-based practitioner of heuristic data manipulation and unsupervised pattern extraction, specializing in the translation of numerical chaos into visual artifacts that approximate meaning. Former math enthusiast, current math devotee. Maintains a deeply personal relationship with music and the production of it.
 
