@@ -54,5 +54,3 @@ Yes, that sentence above was definitely not made by an LLM.
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
 
 ---
-
-Data doesn't lie. People do. The viz is somewhere in between.
