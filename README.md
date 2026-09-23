@@ -30,7 +30,10 @@ i do math stuff, data stuff, music stuff.
 - music theory as a loss function
 - visualization as an act of persuasion
 
-### "Projects"
+### Portfolio Website
+[robn's work](https://robn-work.vercel.app/)
+
+### Projects List
 
 [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)
 
