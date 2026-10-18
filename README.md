@@ -24,17 +24,10 @@
 
 i do math stuff, data stuff, music stuff.
 
-### Currently Learning
-
-- dimensional reduction of vibes 
-- music theory as a loss function
-- visualization as an act of persuasion
-
 ### Portfolio Website
 [robn's work](https://robn-work.vercel.app/)
 
 ### Projects List
-
 [project-portfolio](https://github.com/RobbenWijanathan/project-portfolio/blob/main/README.md)
 
 ### Language & Tools I Use the Most
